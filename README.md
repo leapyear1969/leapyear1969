@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @leapyear1969
 - 👀 I’m interested in open source project.
-- 🌱 I’m currently learning k8s and docker.
-- 💞️ I’m looking to collaborate on k8s and docker.
+- 🌱 I’m currently learning nothing.
+- 💞️ I’m looking for nothing.
 - 📫 jason@majun.fun
 
 <!---

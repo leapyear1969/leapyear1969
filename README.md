@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @leapyear1969
 - 👀 I’m interested in open source project.
 - 🌱 I’m currently learning pve and AI modules.
-- 💞️ I’m looking for study partner.
 - 📫 jason@majun.fun
 
 <!---
